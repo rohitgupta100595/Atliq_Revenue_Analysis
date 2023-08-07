@@ -7,6 +7,7 @@ and it has regional managers.
 For some years this company's sales are on decline.
 
 Simple Insights:
+ 
 1.) Revenue Breakdown by Cities.
  
 2.) Revenue Breakdown by years and month.
