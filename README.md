@@ -26,15 +26,15 @@ and automate them to reduce manual time spent in data gathering.
 2.) STAKEHOLDERS:
 	People involved in project
   
---> Sales Director.
+1.) Sales Director.
  
---> Marketing team.
+2.) Marketing team.
  
---> Customer Service Team.
+3.) Customer Service Team.
  
---> Data & Analytics Team.
+4.) Data & Analytics Team.
  
---> IT
+5.) IT
  
 
 3.) END RESULT:
@@ -42,10 +42,10 @@ and automate them to reduce manual time spent in data gathering.
 
 4.) SUCCESS CRITERIA:
  
-	--> Dashboards uncovering sales order insights with latest data available.
+	1.) Dashboards uncovering sales order insights with latest data available.
   
-	--> Sales team able to take better decisions & prove 10% cost saving of total spend.
+	2.) Sales team able to take better decisions & prove 10% cost saving of total spend.
   
-	--> Sales Analyst stop data gathering manually in order to save 20% of their bussiness time and reinvest 
+	3.) Sales Analyst stop data gathering manually in order to save 20% of their bussiness time and reinvest 
 		it value added activity.
    
