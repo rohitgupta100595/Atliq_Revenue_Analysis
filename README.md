@@ -25,17 +25,27 @@ and automate them to reduce manual time spent in data gathering.
 
 2.) STAKEHOLDERS:
 	People involved in project
+  
 --> Sales Director.
+ 
 --> Marketing team.
+ 
 --> Customer Service Team.
+ 
 --> Data & Analytics Team.
+ 
 --> IT
+ 
 
 3.) END RESULT:
 	An automated dashboard providing quick and latest sales insights in order to support data driven decision making.
 
 4.) SUCCESS CRITERIA:
+ 
 	--> Dashboards uncovering sales order insights with latest data available.
+  
 	--> Sales team able to take better decisions & prove 10% cost saving of total spend.
+  
 	--> Sales Analyst stop data gathering manually in order to save 20% of their bussiness time and reinvest 
 		it value added activity.
+   
